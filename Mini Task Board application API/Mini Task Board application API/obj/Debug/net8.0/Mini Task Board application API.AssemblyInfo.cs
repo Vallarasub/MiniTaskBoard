@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Task Board application API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3ba67b32e6d4ee60b5de1443c41c6c8400cd51")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Task Board application API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Task Board application API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

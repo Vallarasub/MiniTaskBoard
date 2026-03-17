@@ -4620,11 +4620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vallarasu\\Documents\\Mini Api\\Mini Task Board application API\\Mini Task Board application API\\Mini Task Board application API.csproj",
+      "projectUniqueName": "C:\\Mini Task Board application\\Mini Task Board application API\\Mini Task Board application API\\Mini Task Board application API.csproj",
       "projectName": "Mini Task Board application API",
-      "projectPath": "C:\\Users\\Vallarasu\\Documents\\Mini Api\\Mini Task Board application API\\Mini Task Board application API\\Mini Task Board application API.csproj",
+      "projectPath": "C:\\Mini Task Board application\\Mini Task Board application API\\Mini Task Board application API\\Mini Task Board application API.csproj",
       "packagesPath": "C:\\Users\\Vallarasu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vallarasu\\Documents\\Mini Api\\Mini Task Board application API\\Mini Task Board application API\\obj\\",
+      "outputPath": "C:\\Mini Task Board application\\Mini Task Board application API\\Mini Task Board application API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
