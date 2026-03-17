@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Mini_Task_Board_application_API.Controllers.TasksController",
+    "Method": "CreateTask",
+    "RelativePath": "api/Tasks/CreateTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "Mini_Task_Board_application_API.Models.TaskItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mini_Task_Board_application_API.Controllers.TasksController",
+    "Method": "DeleteTask",
+    "RelativePath": "api/Tasks/DeleteTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "Mini_Task_Board_application_API.Models.TaskItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mini_Task_Board_application_API.Controllers.TasksController",
+    "Method": "GetTasks",
+    "RelativePath": "api/Tasks/GetTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Mini_Task_Board_application_API.Controllers.TasksController",
+    "Method": "UpdateTask",
+    "RelativePath": "api/Tasks/UpdateTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "Mini_Task_Board_application_API.Models.TaskItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
